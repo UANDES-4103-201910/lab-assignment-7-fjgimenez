@@ -1,3 +1,35 @@
 /* Define your CSS styles here */
-/* Remember to validate your CSS at https://jigsaw.w3.org/css-validator/ */
+/*Eric Meyer’s reset*/
 
+
+.first-row {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.first-row > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  border: 2px solid #9799a7;
+  border-radius: 5px;
+}
+.second-row-row {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.second-row-row > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  border: 2px solid #9799a7;
+  border-radius: 5px;
+
+/* Remember to validate your CSS at https://jigsaw.w3.org/css-validator/ */
